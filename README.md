@@ -1,4 +1,4 @@
-# Real-Fake-Job-Posting-Prediction
+# Real And Fake Job Posting Prediction
 
 # Abstract
 
